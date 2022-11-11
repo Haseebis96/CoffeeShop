@@ -1,18 +1,18 @@
 {
-   "book": [
+   "CoffeeShop": [
 	
       {
-         "id":"01",
-         "language": "Java",
-         "edition": "third",
-         "author": "Herbert Schildt"
+         "ShopTitle":"Contact",
+         "ShopImageOne": "https://raw.githubusercontent.com/Haseebis96/CoffeeShop/main/CoffeeShopLogo.jpg",
+         "pageDetails": "Contact Information \n Telephone: 1122334455, \n Email: coffeeshop@gmu.edu \n Address: GMU, Fairfax, GMU",
+         "pageFooter": "Copyright©"
       },
 	
       {
-         "id":"07",
-         "language": "C++",
-         "edition": "second",
-         "author": "E.Balagurusamy"
+        "ShopTitle":"Feedback",
+        "ShopImageOne": "https://raw.githubusercontent.com/Haseebis96/CoffeeShop/main/CoffeeShopLogo.jpg",
+        "pageDetails": "Hi!",
+        "pageFooter": "Copyright©"
       }
    ]
 }
