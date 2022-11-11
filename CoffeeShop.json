@@ -1,22 +1,13 @@
 {
-    "glossary": {
-        "title": "example glossary",
-		"GlossDiv": {
-            "title": "S",
-			"GlossList": {
-                "GlossEntry": {
-                    "ID": "SGML",
-					"SortAs": "SGML",
-					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
-					"GlossDef": {
-                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
-						"GlossSeeAlso": ["GML", "XML"]
-                    },
-					"GlossSee": "markup"
-                }
-            }
-        }
-    }
-}
+- HikingTrails: [
+- {
+Traildifficulty: "Difficult", TrailElevation: "2521 ft",
+TrailID: 1, TrailImage:
+"https: //raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.
+jpg",
+Traillength: "8.0 mi",
+TrailName: "Old Rag Mountain", TrailTime: "5.5 hrs",
+TrailWebsite: "https://www.hikingupward.com/snp/oldrag/",
+TrailDescription: "Old Rag Mountain Loop is a 9.5 mile heavily trafficked loop trail located near Etlan, Virginia that features a river and is rated as difficult. The trail is primarily used for hiking and is best used from May until October.",
+Trailaddress: "State Rte 600, Etlan, VA 22719"
+},
