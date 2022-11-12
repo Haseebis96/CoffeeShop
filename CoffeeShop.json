@@ -4,14 +4,14 @@
        "ShopTitle":"Home",
        "ShopImageOne": "https://raw.githubusercontent.com/Haseebis96/CoffeeShop/main/CoffeeShopLogo.jpg",
        "pageDetails": "Background (Information): \n The CoffeeShop was founded in 2020 with the goal \n in mind to serve the best coffee in the local area. \n Our primary goal is customer satisfaction through \n the quality products that we serve to our great \n customers.We belive in freshness of things that \n we serve :) \n",
-       "pageFooter": "Copyright©"
+       "pageFooter": "Copyright©",
+       "coffeeWebsite": "https://en.wikipedia.org/wiki/Coffee"
        },
        {
        "ShopTitle":"Menu",
        "ShopImageOne": "https://raw.githubusercontent.com/Haseebis96/CoffeeShop/main/CoffeeShopLogo.jpg",
        "pageDetails": "\t# Coffees\t\t\t\t\t\t\t Rates \n\n \t1.Cappucino \t\t\t\t\t\t\t $4.00 \n\n \t2.Latte \t\t\t\t\t\t\t\t $4.00 \n\n \t3.Hazel Nut \t\t\t\t\t\t\t $3.00 \n\n \t4.Pumpkin Spice Latte \t\t\t\t $6.00 \n\n \t5.Toffee Nut Latte \t\t\t\t\t $5.00 \n\n \t6.Caffe Mocha \t\t\t\t\t\t $2.00 \n\n \t7.Caffe Americano \t\t\t\t\t $2.00",
        "pageFooter": "Copyright©"
-       
        },
        {
        "ShopTitle":"Location",
@@ -25,7 +25,6 @@
          "pageDetails": "Contact Information \n Telephone: 1122334455, \n Email: coffeeshop@gmu.edu \n Address: GMU, Fairfax, GMU",
          "pageFooter": "Copyright©"
       },
-	
       {
         "ShopTitle":"Feedback",
         "ShopImageOne": "https://raw.githubusercontent.com/Haseebis96/CoffeeShop/main/CoffeeShopLogo.jpg",
