@@ -3,7 +3,7 @@
        {
        "ShopTitle":"Home",
        "ShopImageOne": "https://raw.githubusercontent.com/Haseebis96/CoffeeShop/main/CoffeeShopLogo.jpg",
-       "pageDetails": "Background (Information): \n\n The CoffeeShop was founded in 2020 with the prime \n\n goal of serving the best coffee in the local area. \n\n Our objective is our customer satisfaction through \n the quality products that we serve to our great \n\n customers.We belive in freshness of things that \n\n we serve :) \n\n",
+       "pageDetails": "Background (Information): \n\n The CoffeeShop was founded in 2020 with the prime \n\n goal of serving the best coffee in the local area. \n\n Our objective is our customer satisfaction through \n\n the quality products that we serve to our great \n\n customers.We belive in freshness of things that \n\n we serve :) \n\n",
        "coffeeWebsite": "https://en.wikipedia.org/wiki/Coffee",
        "pageFooter": "Copyright©"
        },
@@ -22,7 +22,7 @@
       {
          "ShopTitle":"Contact",
          "ShopImageOne": "https://raw.githubusercontent.com/Haseebis96/CoffeeShop/main/CoffeeShopLogo.jpg",
-         "pageDetails": "\n\n Given below is our contact information. \n\nContact Information \n\n Telephone: 1122334455, \n\n Email: coffeeshop@gmu.edu \n\n Address: GMU, Fairfax, GMU",
+         "pageDetails": "\n\n Given below is our contact information. \n\n<strong>Contact Information</strong> \n\n Telephone: 1122334455, \n\n Email: coffeeshop@gmu.edu \n\n Address: GMU, Fairfax, GMU",
          "pageFooter": "Copyright©"
       },
       {
