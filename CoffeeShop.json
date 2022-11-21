@@ -3,8 +3,9 @@
        {
        "ShopTitle":"Home",
        "ShopImageOne": "https://raw.githubusercontent.com/Haseebis96/CoffeeShop/main/CoffeeShopLogo.jpg",
-       "pageDetails": "Background (Information): \n The CoffeeShop was founded in 2020 with the goal \n in mind to serve the best coffee in the local area. \n Our primary goal is customer satisfaction through \n the quality products that we serve to our great \n customers.We belive in freshness of things that \n we serve :) \n",
-       "pageFooter": "Copyright©",
+       "pageDetails": "Background (Information): \n\n The CoffeeShop was founded in 2020 with the prime \n\n goal of serving the best coffee in the local area. \n\n Our objective is our customer satisfaction through \n the quality products that we serve to our great \n\n customers.We belive in freshness of things that \n\n we serve :) \n\n",
+       "coffeeWebsite": "https://en.wikipedia.org/wiki/Coffee",
+       "pageFooter": "Copyright©"
        },
        {
        "ShopTitle":"Menu",
@@ -15,13 +16,13 @@
        {
        "ShopTitle":"Location",
        "ShopImageOne": "https://raw.githubusercontent.com/Haseebis96/CoffeeShop/main/CoffeeShopLogo.jpg",
-       "pageDetails": "",
+       "pageDetails": "\n\n Longitude: 38.8315 \n\n Latitude: 77.3117 \n\n Description: Please click on the location button \n\n given below, then please enter the given (above) \n\n values of longitude and latitude to find \n\n our location, from your current location.",
        "pageFooter": "Copyright©"
        },
       {
          "ShopTitle":"Contact",
          "ShopImageOne": "https://raw.githubusercontent.com/Haseebis96/CoffeeShop/main/CoffeeShopLogo.jpg",
-         "pageDetails": "Contact Information \n Telephone: 1122334455, \n Email: coffeeshop@gmu.edu \n Address: GMU, Fairfax, GMU",
+         "pageDetails": "\n\n Given below is our contact information. \n\nContact Information \n\n Telephone: 1122334455, \n\n Email: coffeeshop@gmu.edu \n\n Address: GMU, Fairfax, GMU",
          "pageFooter": "Copyright©"
       },
       {
