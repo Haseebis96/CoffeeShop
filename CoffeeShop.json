@@ -16,7 +16,7 @@
        {
        "ShopTitle":"Location",
        "ShopImageOne": "https://raw.githubusercontent.com/Haseebis96/CoffeeShop/main/CoffeeShopLogo.jpg",
-       "pageDetails": "\n\n Longitude: 38.8315 \n\n Latitude: 77.3117 \n\n Description: Please click on the location button \n\n given below, then please enter the given (above) \n\n values of longitude and latitude to find our \n\n location, from your current location.",
+       "pageDetails": "\n\n Longitude: 38.8315 \n\n Latitude: 77.3117 \n\n Description: Please click on the location button \n\n given below, then please enter the given (above) \n\n values of longitude and latitude to find \n\n our location, from your current location.",
        "pageFooter": "Copyright©"
        },
       {
@@ -26,9 +26,9 @@
          "pageFooter": "Copyright©"
       },
       {
-        "ShopTitle":"Feedback",
+        "ShopTitle":"Rewards",
         "ShopImageOne": "https://raw.githubusercontent.com/Haseebis96/CoffeeShop/main/CoffeeShopLogo.jpg",
-        "pageDetails": "Hi!",
+        "pageDetails":"Below is the information about our reward program \n\n New members get every 5th coffee for free \n\n Regular members get every 4th coffee for free \n\n Legacy members get a free side on every 3th coffee for free",
         "pageFooter": "Copyright©"
       }
    ]
